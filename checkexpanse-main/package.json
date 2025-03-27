@@ -1,0 +1,20 @@
+{
+  "name": "checkexpanse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Indraudh Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dayjs": "^1.11.11",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.3.4",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7"
+  }
+}
